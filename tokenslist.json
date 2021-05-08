@@ -3,7 +3,7 @@
   "timestamp": "2021-03-10T19:10:11.932Z",
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tags": {},
@@ -22,29 +22,135 @@
       "logoURI": "https://raw.githubusercontent.com/kyoudaiai/tokenslist/master/logo.png"
     },
     {
-      "name": "Dai Stablecoin",
-      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-      "symbol": "DAI",
-      "decimals": 18,
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/kyoudaiai/tokenslist/master/logo.png"
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
     },
     {
-      "name": "Binance USD",
-      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      "symbol": "BUSD",
-      "decimals": 18,
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/kyoudaiai/tokenslist/master/logo.png"
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/dai_32.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
     },
     {
       "name": "Tether USD",
-      "address": "0x55d398326f99059fF775485246999027B3197955",
       "symbol": "USDT",
-      "decimals": 18,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/kyoudaiai/tokenslist/master/logo.png"
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busdt_32.png"
     },
+    {
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/btcb_32.png"
+    },
+
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "Trust Wallet",
+      "symbol": "TWT",
+      "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/trust_32.png"
+    },
+    {
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/yfi_32.png"
+    },
+    {
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933"
+    },
+    {
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/cardano_32.png"
+    },
+    {
+      "name": "Litecoin Token",
+      "symbol": "LTC",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+    },
+    {
+      "name": "Bitcoin Cash Token",
+      "symbol": "BCH",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
+    },
+    {
+      "name": "XRP Token",
+      "symbol": "XRP",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/xrp_32.png"
+    },
+    {
+      "name": "EOS Token",
+      "symbol": "EOS",
+      "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/eos_32.png"
+    },
+    
     {
       "name": "Unifinity Credits",
       "address": "0xd515c8F8Bf70F9858910C5ba6B668B83A046d9BE",
